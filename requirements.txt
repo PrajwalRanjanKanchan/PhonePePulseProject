@@ -1,0 +1,6 @@
+Plotly 
+Pandas
+mysql.connector 
+Streamlit 
+json 
+git.repo.base
